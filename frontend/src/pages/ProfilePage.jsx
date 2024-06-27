@@ -102,3 +102,5 @@ const ProfilePage = () => {
   );
 };
 export default ProfilePage;
+
+// Updated inline comments
