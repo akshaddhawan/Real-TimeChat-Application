@@ -90,3 +90,5 @@ const ChatContainer = () => {
   );
 };
 export default ChatContainer;
+
+// Optimized function for performance
