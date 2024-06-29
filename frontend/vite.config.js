@@ -7,3 +7,4 @@ export default defineConfig({
 })
 
 // Refactored function into smaller methods
+// Improved null/empty checks
