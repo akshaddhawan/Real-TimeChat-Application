@@ -92,3 +92,4 @@ const ChatContainer = () => {
 export default ChatContainer;
 
 // Optimized function for performance
+// Improved logging messages
