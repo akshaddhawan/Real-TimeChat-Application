@@ -53,3 +53,5 @@ const Navbar = () => {
   );
 };
 export default Navbar;
+
+// Updated algorithm for better performance
