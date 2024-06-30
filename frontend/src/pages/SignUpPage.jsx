@@ -152,3 +152,5 @@ const SignUpPage = () => {
   );
 };
 export default SignUpPage;
+
+// Refactored code for better readability
