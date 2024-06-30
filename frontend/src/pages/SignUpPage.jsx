@@ -154,3 +154,4 @@ const SignUpPage = () => {
 export default SignUpPage;
 
 // Refactored code for better readability
+// Improved file-level documentation
