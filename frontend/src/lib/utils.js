@@ -7,3 +7,4 @@ export function formatMessageTime(date) {
 }
 
 // Reduced duplicate code
+// Updated function names for consistency
