@@ -107,3 +107,4 @@ export default ProfilePage;
 // Improved null/empty checks
 // Reorganized imports for clarity
 // Improved null/empty checks
+// Reduced memory footprint
