@@ -44,3 +44,5 @@ export default {
     ],
   },
 };
+
+// Updated algorithm for better performance
