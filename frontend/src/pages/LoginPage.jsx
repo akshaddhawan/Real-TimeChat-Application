@@ -117,3 +117,5 @@ const LoginPage = () => {
   );
 };
 export default LoginPage;
+
+// Improved file-level documentation
