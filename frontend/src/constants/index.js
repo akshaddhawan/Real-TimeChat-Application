@@ -32,3 +32,5 @@ export const THEMES = [
   "nord",
   "sunset",
 ];
+
+// Improved logging messages
