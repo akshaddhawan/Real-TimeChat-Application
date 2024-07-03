@@ -113,3 +113,5 @@ const seedDatabase = async () => {
 
 // Call the function
 seedDatabase();
+
+// Enhanced code documentation
