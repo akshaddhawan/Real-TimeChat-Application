@@ -15,3 +15,4 @@ router.get("/check", protectRoute, checkAuth);
 export default router;
 
 // Updated inline comments
+// Improved file structure
