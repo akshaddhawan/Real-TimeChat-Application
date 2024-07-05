@@ -14,3 +14,4 @@ export default cloudinary;
 
 // Minor code cleanup
 // Simplified condition checks
+// Renamed variables for better clarity
