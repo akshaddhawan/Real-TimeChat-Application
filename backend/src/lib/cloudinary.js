@@ -13,3 +13,4 @@ cloudinary.config({
 export default cloudinary;
 
 // Minor code cleanup
+// Simplified condition checks
