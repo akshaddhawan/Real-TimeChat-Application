@@ -115,3 +115,4 @@ const seedDatabase = async () => {
 seedDatabase();
 
 // Enhanced code documentation
+// Updated inline comments
