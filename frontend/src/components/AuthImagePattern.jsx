@@ -22,3 +22,4 @@ const AuthImagePattern = ({ title, subtitle }) => {
 export default AuthImagePattern;
 
 // Improved error reporting
+// Refactored code for better readability
