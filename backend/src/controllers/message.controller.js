@@ -70,3 +70,4 @@ export const sendMessage = async (req, res) => {
 };
 
 // Replaced hardcoded values with constants
+// Updated inline comments
