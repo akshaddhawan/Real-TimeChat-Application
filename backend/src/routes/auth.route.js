@@ -16,3 +16,4 @@ export default router;
 
 // Updated inline comments
 // Improved file structure
+// Improved file-level documentation
