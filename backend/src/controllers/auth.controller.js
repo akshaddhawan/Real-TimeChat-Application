@@ -119,3 +119,4 @@ export const checkAuth = (req, res) => {
 
 // Improved file structure
 // Improved file structure
+// Improved variable naming
