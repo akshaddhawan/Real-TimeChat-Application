@@ -85,5 +85,3 @@ const Sidebar = () => {
   );
 };
 export default Sidebar;
-
-// Added missing error logs

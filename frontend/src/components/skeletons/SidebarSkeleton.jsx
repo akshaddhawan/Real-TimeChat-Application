@@ -39,5 +39,3 @@ const SidebarSkeleton = () => {
 };
 
 export default SidebarSkeleton;
-
-// Improved variable naming

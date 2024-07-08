@@ -7,5 +7,3 @@ export const useThemeStore = create((set) => ({
     set({ theme });
   },
 }));
-
-// Removed deprecated function calls

@@ -13,7 +13,3 @@ router.put("/update-profile", protectRoute, updateProfile);
 router.get("/check", protectRoute, checkAuth);
 
 export default router;
-
-// Updated inline comments
-// Improved file structure
-// Improved file-level documentation

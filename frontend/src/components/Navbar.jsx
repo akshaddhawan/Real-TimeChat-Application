@@ -53,6 +53,3 @@ const Navbar = () => {
   );
 };
 export default Navbar;
-
-// Updated algorithm for better performance
-// Updated function names for consistency

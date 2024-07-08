@@ -68,6 +68,3 @@ export const sendMessage = async (req, res) => {
     res.status(500).json({ error: "Internal server error" });
   }
 };
-
-// Replaced hardcoded values with constants
-// Updated inline comments

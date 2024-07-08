@@ -50,5 +50,3 @@ const App = () => {
   );
 };
 export default App;
-
-// Improved null/empty checks
